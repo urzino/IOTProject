@@ -1,0 +1,3 @@
+COMPONENT=USBAppC
+
+include $(MAKERULES)
